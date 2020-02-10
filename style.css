@@ -1,0 +1,55 @@
+/* h1 {
+    text-align: center;
+}
+section {
+    box-sizing: border-box; */
+    /* border: 2px solid black;
+    margin: 0 auto;
+    height: 404px;
+    width: 404px;
+}
+div {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+div {
+    background-color: ;
+} */
+* {
+    font-family: "Courier New";
+    text-align: center;
+}
+section {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.main-box {
+    border: 1px solid black;
+    background-color: #ddd;
+}
+button {
+    background-color: white;
+    padding: 2em;
+    color: black;
+    border: 1px solid black;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover {
+    background-color:lightgreen;
+}
+p.affirmation {
+    display: block;
+    margin: 0 auto;
+    font-size: 2em;
+    color: red;
+    max-width: 500px;
+}
+h2 {
+    color: red;
+}
